@@ -1,2 +1,2 @@
 # Sugar gallery
-A temporary placeholder for the gh-pages at http://inkyfingers.github.io/gallery 
+A temporary placeholder for some **"New to Sugar"** pages at http://inkyfingers.github.io/gallery 
