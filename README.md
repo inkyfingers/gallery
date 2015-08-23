@@ -1,1 +1,1 @@
-# gallery
+# Sugar gallery, a temporary placeholder.
